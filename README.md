@@ -65,12 +65,14 @@ a numbered list:
 1. test1：
     - shoes
     - apple
-2.test2：
+    
+2. test2：
     - origin
     - ea
     - steam
     - ubisoft
-3.test3：
+    
+3. test3：
     -google
     -microsoft
     -bytedance
