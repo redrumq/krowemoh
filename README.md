@@ -1,6 +1,10 @@
 
 ## README.md
-####  image
+####  README.md
+
+
+if you want to go to test.md
+click https://github.com/redrumq/krowemoh/blob/b2bd1ee1b7596e68321b0e8aa9e4059002609d9d/test.md
 
 
 
@@ -10,16 +14,17 @@
 
 
 
-github文件夹下的一张图片
+github文件夹下的一张图片:
+
 ![avatar](https://github.com/redrumq/krowemoh/blob/28e21ffb9dccee9695ac458110211afc440642c8/ddd.png)
 
 
 
-
+an externalweb site:
 <https://www.baidu.com/>
 
 
 
 
-if you want to go to test.md
-click https://github.com/redrumq/krowemoh/blob/b2bd1ee1b7596e68321b0e8aa9e4059002609d9d/test.md
+
+
