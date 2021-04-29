@@ -13,7 +13,7 @@
 
 
 
-<https://www.123iloveyou.xyz>
+<https://http://www.paulgraham.com/>
 
 
 
