@@ -73,9 +73,9 @@ a numbered list:
     - ubisoft
     
 3. test3：
-    -google
-    -microsoft
-    -bytedance
+    - google
+    - microsoft
+    - bytedance
     
     
  ---
