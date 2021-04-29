@@ -13,7 +13,7 @@
 
 
 
-<https://http://www.paulgraham.com/>
+<https://www.paulgraham.com/>
 
 
 
