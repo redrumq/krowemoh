@@ -47,7 +47,7 @@ a block quote:
 
 
  a bulleted list:
- +mike
++ mike
 + tommy
 + rockstars
 + gta
